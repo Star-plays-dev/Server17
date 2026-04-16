@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:true
 useVbo:true
@@ -100,7 +100,7 @@ key_key.jei.toggleBookmarkOverlay:0
 key_key.plonk.place.desc:25
 key_Speak:47
 key_Gliby's Options Menu:52
-soundCategory_master:0.17218544
+soundCategory_master:0.72516555
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
