@@ -1,0 +1,9 @@
+{
+  "id" : "9ec417c663794e6eafd334d7bb83797c",
+  "name" : "Verdie",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDc0NjM4MDI0MSwKICAicHJvZmlsZUlkIiA6ICI5ZWM0MTdjNjYzNzk0ZTZlYWZkMzM0ZDdiYjgzNzk3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWZXJkaWUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTU5MTUwOTAxNTIzZGNkMDQ3YjgwY2Y4ZDRjMGU3NzQ2M2ZlZjcxYzYxOTIxOTQyNDllNDRhNzRlNjI2YTM3NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
