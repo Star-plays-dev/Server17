@@ -1,112 +1,45 @@
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.28
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 11 (amd64) version 10.0
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Java Version: 1.8.0_461, Oracle Corporation
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.12.2
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\CustomSkinLoader.json
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Try to load config.
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Successfully load config.
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GameProfile
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: Successfully update config.
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: version : 14.28
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: buildNumber : 38
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "GameProfile", "type": "GameProfile" }, { "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableCape : true
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
-[2026-06-16 19:28:03] [Client thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
-[2026-06-16 19:28:03] [Verdie/INFO] [CustomSkinLoader Core]: Loading Verdie's profile.
-[2026-06-16 19:28:03] [Verdie/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'GameProfile'.
-[2026-06-16 19:28:03] [Verdie/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-06-16 19:28:03] [Verdie/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'Mojang'.
-[2026-06-16 19:28:03] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
-[2026-06-16 19:28:03] [Verdie/INFO] [CustomSkinLoader Core]: Payload: ["Verdie"]
-[2026-06-16 19:28:04] [Verdie/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 72)
-[2026-06-16 19:28:04] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: [ {
-  "id" : "9ec417c663794e6eafd334d7bb83797c",
-  "name" : "Verdie"
-} ]
-[2026-06-16 19:28:04] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/9ec417c663794e6eafd334d7bb83797c'.
-[2026-06-16 19:28:05] [Verdie/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 604)
-[2026-06-16 19:28:05] [Verdie/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 604 , Path: 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\9f14d19d3ecddffa53081df34ff39cc9149aff1a' , Expire: 1781612905)
-[2026-06-16 19:28:05] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: {
-  "id" : "9ec417c663794e6eafd334d7bb83797c",
-  "name" : "Verdie",
-  "properties" : [ {
-    "name" : "textures",
-    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTYxMjg4NzUxMCwKICAicHJvZmlsZUlkIiA6ICI5ZWM0MTdjNjYzNzk0ZTZlYWZkMzM0ZDdiYjgzNzk3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWZXJkaWUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTU5MTUwOTAxNTIzZGNkMDQ3YjgwY2Y4ZDRjMGU3NzQ2M2ZlZjcxYzYxOTIxOTQyNDllNDRhNzRlNjI2YTM3NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
-  } ],
-  "profileActions" : [ ]
-}
-[2026-06-16 19:28:05] [Verdie/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'LittleSkin'.
-[2026-06-16 19:28:05] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Verdie.json'.
-[2026-06-16 19:28:07] [Verdie/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
-[2026-06-16 19:28:07] [Verdie/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\d8e8402eb6a122c02f012b0d5195020367507233' , Expire: 1781612981)
-[2026-06-16 19:28:07] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: {}
-[2026-06-16 19:28:07] [Verdie/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-06-16 19:28:07] [Verdie/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'BlessingSkin'.
-[2026-06-16 19:28:07] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Verdie.json'.
-[2026-06-16 19:28:08] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
-[2026-06-16 19:28:08] [Verdie/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-06-16 19:28:08] [Verdie/INFO] [CustomSkinLoader Core]: 5/14 Try to load [2026-06-16 19:28:41] [pool-7-thread-1/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method run in class net.minecraft.client.resources.SkinManager$3$1
-EBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 149)
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 149 , Path: 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\f4b99db9d40de3b1da241b35335b740541c16a81' , Expire: 1781612984)
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://textures.minecraft.net/texture/e59150901523dcd047b80cf8d4c0e77463fef71c6192194249e44a74e626a377","metadata":{"model":"slim"}}}
-[2026-06-16 19:28:09] [Verdie/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'SkinMe'.
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/Verdie.json'.
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/Verdie.json (Exception: java.net.UnknownHostException: www.skinme.cc)
-[2026-06-16 19:28:09] [Verdie/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-06-16 19:28:09] [Verdie/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'TLauncher'.
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Verdie'.
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 83 , Path: 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\5aa02d3d6e4843a51e0ea7230c0eb072235c4a8c' , Expire: 1781612983)
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_verdie.png"}}
-[2026-06-16 19:28:09] [Verdie/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'GlitchlessGames'.
-[2026-06-16 19:28:09] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Verdie'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Verdie (Exception: java.net.SocketTimeoutException: connect timed out)
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'LocalSkin'.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'MinecraftCapes'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.minecraftcapes.net/profile/9ec417c663794e6eafd334d7bb83797c'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 241 , Path: 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\352881e01830940df4de749352b3f81c149b71d9' , Expire: 1781614787)
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: Try to load from cache 'C:\Users\Losyash\Downloads\Server17\.minecraft\CustomSkinLoader\caches\352881e01830940df4de749352b3f81c149b71d9'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Content: {"animatedCape":false,"capeGlint":false,"upsideDown":false,"animated_cape_url":null,"cape_url":null,"ear_url":null,"textures":{"_IMPORTANT":"We are removing base64 textures, please use the above parameters instead.","cape":null,"ears":null}}
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'OptiFine'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Verdie.png'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'Wynntils'.
-[2026-06-16 19:28:19] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://athena.wynntils.com/user/getInfo'.
-[2026-06-16 19:28:19] [Verdie/INFO] [CustomSkinLoader Core]: Payload: {"uuid":"9ec417c6-6379-4e6e-afd3-34d7bb83797c"}
-[2026-06-16 19:28:29] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request https://athena.wynntils.com/user/getInfo (Exception: java.net.SocketTimeoutException: connect timed out)
-[2026-06-16 19:28:29] [Verdie/INFO] [CustomSkinLoader Core]: Profile not found.
-[2026-06-16 19:28:29] [Verdie/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'CloakPlus'.
-[2026-06-16 19:28:29] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Verdie.png'.
-[2026-06-16 19:28:40] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request http://161.35.130.99/capes/Verdie.png (Exception: java.net.SocketTimeoutException: connect timed out)
-[2026-06-16 19:28:40] [Verdie/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-06-16 19:28:40] [Verdie/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
-[2026-06-16 19:28:40] [Verdie/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.cosmetica.cc/get/cloak?username=Verdie&uuid=9ec417c6-6379-4e6e-afd3-34d7bb83797c&nothirdparty'.
-[2026-06-16 19:28:41] [Verdie/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
-[2026-06-16 19:28:41] [Verdie/INFO] [CustomSkinLoader Core]: No texture could be found.
-[2026-06-16 19:28:41] [Verdie/INFO] [CustomSkinLoader Core]: Verdie's profile loaded.
-[2026-06-16 19:28:41] [Verdie/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/e59150901523dcd047b80cf8d4c0e77463fef71c6192194249e44a74e626a377 , Model: slim , CapeUrl: null  , Expiry: 1781612951)
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$MinecraftTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.client.Minecraft
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$IImageBufferTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.client.renderer.IImageBuffer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$ClientIResourceTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.client.resources.IResource
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$ClientIResourceManagerTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.client.resources.IResourceManager
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$IResourceTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.resources.IResource
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.FakeInterfacesTransformer$IResourceManagerTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING CLASS net.minecraft.resources.IResourceManager
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$InitTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager::<init>(Lnet/minecraft/client/renderer/texture/TextureManager;Ljava/io/File;Lcom/mojang/authlib/minecraft/MinecraftSessionService;)V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager::func_152789_a(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager::loadSkin(Lcom/mojang/authlib/minecraft/MinecraftProfileTexture;Lcom/mojang/authlib/minecraft/MinecraftProfileTexture$Type;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;)Lnet/minecraft/util/ResourceLocation;
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadProfileTexturesTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager::func_152790_a(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager::loadProfileTextures(Lcom/mojang/authlib/GameProfile;Lnet/minecraft/client/resources/SkinManager$SkinAvailableCallback;Z)V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$LoadSkinFromCacheTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager::func_152788_a(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager::loadSkinFromCache(Lcom/mojang/authlib/GameProfile;)Ljava/util/Map;
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$Run0Transformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager$3::run()V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager$3::run()V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SkinManagerTransformer$Run1Transformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.resources.SkinManager$3$1::run()V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.resources.SkinManager$3$1::run()V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.PlayerTabTransformer$ScoreObjectiveTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.gui.GuiPlayerTabOverlay::func_175249_a(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING METHOD net.minecraft.client.gui.GuiPlayerTabOverlay::renderPlayerlist(ILnet/minecraft/scoreboard/Scoreboard;Lnet/minecraft/scoreboard/ScoreObjective;)V
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING TRANSFORMER customskinloader.forge.transformer.SpectatorMenuTransformer$PlayerMenuObjectTransformer
+[2026-06-27 14:34:33] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] REGISTERING SRG METHOD net.minecraft.client.gui.spectator.PlayerMenuObject::<init>(Lcom/mojang/authlib/GameProfile;)V
+[2026-06-27 14:34:35] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.client.Minecraft
+[2026-06-27 14:34:35] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.client.resources.IResourceManager
+[2026-06-27 14:34:35] [main/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.resources.IResourceManager
+[2026-06-27 14:34:46] [Thread-3/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.client.resources.IResource
+[2026-06-27 14:34:46] [Thread-3/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.resources.IResource
+[2026-06-27 14:34:50] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed class net.minecraft.client.renderer.IImageBuffer
+[2026-06-27 14:34:56] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method <init> in class net.minecraft.client.resources.SkinManager
+[2026-06-27 14:34:56] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method func_152789_a in class net.minecraft.client.resources.SkinManager
+[2026-06-27 14:34:56] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method func_152790_a in class net.minecraft.client.resources.SkinManager
+[2026-06-27 14:34:56] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method func_152788_a in class net.minecraft.client.resources.SkinManager
+[2026-06-27 14:35:27] [Client thread/INFO] [CustomSkinLoader Forge]: [CSL DEBUG] Successfully transformed method func_175249_a in class net.minecraft.client.gui.GuiPlayerTabOverlay
