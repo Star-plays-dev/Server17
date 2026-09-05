@@ -373,8 +373,8 @@
 			"size": 6579
 		},
 		"minecraft/sounds/music/menu/menu1.ogg": {
-			"hash": "285f39fc0c8315ef5b380e0a3b498f9fc6429e6e",
-			"size": 2879311
+			"hash": "bf22c9401acb2bf94bf15cab5cd22b2cff598ee2",
+			"size": 2811718
 		},
 		"minecraft/sounds/item/bucket/empty1.ogg": {
 			"hash": "27987b7065ef4a27106246f9d32382a0514f87b2",
@@ -2648,6 +2648,10 @@
 			"hash": "45bf909bc5def60f055a57ac776ac277364d76a6",
 			"size": 23713
 		},
+		"minecraft/sounds/music/menu/menu7.ogg": {
+			"hash": "216077470a9f879bce750597848967a480acbb13",
+			"size": 1694084
+		},
 		"minecraft/lang/nl_be.lang": {
 			"hash": "29792b46398e0fa156aa9dd9cf4d9d023a634233",
 			"size": 164742
@@ -3152,6 +3156,10 @@
 			"hash": "c7b1005d4926f6a2e2387a41ab1fb48a72f18e98",
 			"size": 7163
 		},
+		"minecraft/sounds/music/menu/menu6.ogg": {
+			"hash": "c449113b01150ca7dd12ea177f5e5a87322e845c",
+			"size": 1346121
+		},
 		"minecraft/sounds/entity/snowman/death3.ogg": {
 			"hash": "9f910c27c8cf336f211a75830821b0ec6abf6fa9",
 			"size": 9110
@@ -3289,8 +3297,8 @@
 			"size": 7470
 		},
 		"minecraft/sounds.json": {
-			"hash": "975a99ed9870f51bbae348533d775d730e3fee18",
-			"size": 105658
+			"hash": "e6a86c1e12a665b15bc57a6eed0db6d6bc82199e",
+			"size": 105877
 		},
 		"minecraft/sounds/mob/husk/death1.ogg": {
 			"hash": "a3e09e3bd63fe64ad3f5bc80d41c713b142c625b",
@@ -3495,6 +3503,10 @@
 		"minecraft/sounds/music/game/end/boss.ogg": {
 			"hash": "b9eef13c2337a6335c4523858619ca560dff4496",
 			"size": 3329788
+		},
+		"minecraft/sounds/music/menu/menu5.ogg": {
+			"hash": "d334d18ab8a5d64c9cf673e5995add9abb26fa8d",
+			"size": 2247143
 		},
 		"realms/lang/en_au.lang": {
 			"hash": "8866084333b5a2adec7c04d8fdc81da910f68bd7",
@@ -3785,8 +3797,8 @@
 			"size": 12874
 		},
 		"minecraft/sounds/music/game/hal3.ogg": {
-			"hash": "2d995a0d1a49a2e48c0752a856ea1f802204621e",
-			"size": 1123582
+			"hash": "ada3444cabbfd5f7eeffb68e716baeecebf8260e",
+			"size": 1148173
 		},
 		"minecraft/sounds/music/menu/menu4.ogg": {
 			"hash": "b949f909e687e06a8c538a041f8f5837ec062521",

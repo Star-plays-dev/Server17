@@ -4566,6 +4566,10 @@
 	  {
         "name": "music/menu/menu6",
         "stream": true
+      },
+	  {
+        "name": "music/menu/menu7",
+        "stream": true
       }
     ]
   },
